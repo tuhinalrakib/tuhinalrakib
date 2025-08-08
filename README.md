@@ -61,8 +61,8 @@ I love building projects that solve real-world problems and continuously learnin
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tuhinalrakib&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinalrakib&theme=radical" alt="GitHub streak" height="160"/>
 </p>
 
 <p align="center">
