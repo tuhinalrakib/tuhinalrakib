@@ -46,15 +46,15 @@ I love building projects that solve real-world problems and continuously learnin
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/tuhinalrakib" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/tuhin-al-rakib/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+ <a href="https://www.facebook.com/engrtuhin.roky" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 </p>
 
 ---
