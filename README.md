@@ -26,7 +26,6 @@ I love building projects that solve real-world problems and continuously learnin
 ## 🛠 Skills
 
 ### **Frontend**
-### **Frontend**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,daisyUI" />
   <img src="https://daisyui.com/images/daisyui-logo/daisyui-logomark.svg" alt="DaisyUI" width="40" height="40"/>
