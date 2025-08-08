@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/7L4JBkZD/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="Tuhin Al Rakib | MERN Stack Developer" width="100%">
+  <img src="https://i.postimg.cc/65mbDMky/Navy-Blue-Geometric-Technology-Linked-In-Banner-2.png" alt="Tuhin Al Rakib | MERN Stack Developer" width="100%">
 </p>
 
 <!-- Name & Designation -->
