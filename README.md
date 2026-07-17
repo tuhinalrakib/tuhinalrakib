@@ -45,12 +45,39 @@ I love solving real-world problems through code and continuously learning new te
 * **Databases & Caching:** MongoDB, PostgreSQL, SQLite, Redis, Celery (Task Queue)
 * **Real-time & Comms:** Socket.io (WebSockets), Nodemailer
 * **APIs & Auth:** JWT (SimpleJWT), Firebase Auth, Twilio SMS API, Google Gemini API (GenAI)
-* **Payments:** Stripe, SSLCommerz, Wise
+* **Payments:** Stripe, SSLCommerz
 
 ### **Tools & Platforms**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,netlify,vercel" />
 </p>
+
+---
+
+## 📂 Featured Projects
+
+### 🌟 **[VendorNest](https://github.com/tuhinalrakib/vendor-nest)** | SaaS Vendor Management System
+*A robust B2B SaaS platform designed to streamline vendor onboarding, tracking, and evaluation.*
+- **Frontend:** Next.js (App Router), Redux Toolkit, Tailwind CSS, Axios, SweetAlert2.
+- **Backend & Queue:** Django, Django REST Framework, Celery, Redis.
+- **Databases & APIs:** PostgreSQL, Twilio SMS API, Google Gemini AI (for smart insights & automated vendor scoring).
+- **Key Features:** Background task processing, automated notifications, interactive dashboards, and AI-driven recommendations.
+
+---
+
+### 💳 **[Safe-Pay](https://github.com/tuhinalrakib/Safe-pay)** | Secured Payment & AI Dashboard
+*A sleek, high-performance financial dashboard integrated with secure payment gateways and intelligent bots.*
+- **Frontend:** Next.js, Tailwind CSS, Redux, Framer Motion, Recharts.
+- **Backend & Services:** Express.js, Mongoose, Firebase Auth, Python AI Bot, SSLCommerz Payment Gateway.
+- **Key Features:** Secure checkout, real-time transaction analytics charts, dynamic dark/light themes, and an autonomous AI helper bot.
+
+---
+
+### 📊 **[Project Health Monitor](https://github.com/tuhinalrakib/project-health-monitor)** | Real-Time System Tracker
+*An enterprise-grade system monitoring dashboard for checking server status, APIs, and project health in real time.*
+- **Frontend:** Next.js, Redux Toolkit, TanStack Query (React Query), Material UI (MUI).
+- **Backend & Logs:** Express.js, MongoDB (Mongoose), Socket.io, Redis (ioredis), Winston Logger.
+- **Key Features:** Real-time push updates via WebSockets, optimized caching, comprehensive logging, and auto-recovery notifications.
 
 ---
 
