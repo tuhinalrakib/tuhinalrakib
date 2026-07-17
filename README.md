@@ -45,7 +45,7 @@ I love solving real-world problems through code and continuously learning new te
 * **Databases & Caching:** MongoDB, PostgreSQL, SQLite, Redis, Celery (Task Queue)
 * **Real-time & Comms:** Socket.io (WebSockets), Nodemailer
 * **APIs & Auth:** JWT (SimpleJWT), Firebase Auth, Twilio SMS API, Google Gemini API (GenAI)
-* **Payments:** Stripe, SSLCommerz
+* **Payments:** Stripe, SSLCommerz, Wise
 
 ### **Tools & Platforms**
 <p>
