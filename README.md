@@ -1,22 +1,24 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/65mbDMky/Navy-Blue-Geometric-Technology-Linked-In-Banner-2.png" alt="Tuhin Al Rakib | MERN Stack Developer" width="100%">
+  <img src="https://i.postimg.cc/65mbDMky/Navy-Blue-Geometric-Technology-Linked-In-Banner-2.png" alt="Tuhin Al Rakib | Full Stack Developer" width="100%">
 </p>
 
 <!-- Name & Designation -->
 <h1 align="center">Hi 👋, I'm Tuhin Al Rakib</h1>
-<h3 align="center">Frontend Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN & Django Ecosystem</h3>
 
 ---
 
 ## 👨‍💻 About Me
-I’m a passionate MERN stack web developer with a strong focus on creating responsive, user-friendly, and visually appealing web applications.  
-I love building projects that solve real-world problems and continuously learning new technologies to improve my craft.
+I'm a passionate Full Stack Developer specializing in the **MERN Stack** and **Django Ecosystem**.  
+I build responsive, scalable, and user-friendly web applications from frontend to backend.  
+I love solving real-world problems through code and continuously learning new technologies to sharpen my craft.
 
 ---
 
 ## 🔭 Current Activities
 - 🚀 Exploring **Next.js** for modern web development.
+- 🐍 Building robust backends with **Django** & **Django REST Framework**.
 - 🌍 Building a **Tourism Website** with the MERN stack.
 - 📚 Enhancing my skills in **Firebase Authentication** & **Stripe Integration**.
 - 💡 Actively contributing to personal and open-source projects.
@@ -30,10 +32,9 @@ I love building projects that solve real-world problems and continuously learnin
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,materialui" />
 </p>
 
-
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,firebase,python,postgres" />
 </p>
 
 ### **Tools & Platforms**
@@ -51,9 +52,9 @@ I love building projects that solve real-world problems and continuously learnin
   <a href="https://www.linkedin.com/in/tuhin-al-rakib/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href="https://www.facebook.com/engrtuhin.roky" target="_blank">
+  <a href="https://www.facebook.com/engrtuhin.roky" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+  </a>
 </p>
 
 ---
@@ -70,4 +71,4 @@ I love building projects that solve real-world problems and continuously learnin
 
 ---
 
-💬 *“Code is like humor. When you have to explain it, it’s bad.”*
+💬 *"Code is like humor. When you have to explain it, it's bad."*
