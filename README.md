@@ -29,13 +29,23 @@ I love solving real-world problems through code and continuously learning new te
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" />
 </p>
 
-### **Backend**
+* **Languages & Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+* **Libraries & Frameworks:** React.js, Next.js, Redux Toolkit, TanStack Query (React Query)
+* **Styling & UI:** Tailwind CSS, Material UI (MUI), DaisyUI, Framer Motion, Swiper, Lottie, Recharts
+
+### **Backend & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,firebase,python,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,postgres,redis,sqlite,firebase,python" />
 </p>
+
+* **Frameworks & Runtimes:** Node.js, Express.js, Django, Django REST Framework (DRF)
+* **Databases & Caching:** MongoDB, PostgreSQL, SQLite, Redis, Celery (Task Queue)
+* **Real-time & Comms:** Socket.io (WebSockets), Nodemailer
+* **APIs & Auth:** JWT (SimpleJWT), Firebase Auth, Twilio SMS API, Google Gemini API (GenAI)
+* **Payments:** Stripe, SSLCommerz
 
 ### **Tools & Platforms**
 <p>
